@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="32" height="32" fill="black"/>
+  
+  <!-- White triangle (play symbol) -->
+  <path d="M10 9L22 16L10 23V9Z" fill="white"/>
+  
+  <!-- Black inner triangle for hollow effect -->
+  <path d="M11.5 11.5L19.5 16L11.5 20.5V11.5Z" fill="black"/>
+  
+  <!-- White dot more to the right -->
+  <circle cx="24" cy="16" r="1.2" fill="white"/>
+</svg> 
